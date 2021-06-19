@@ -1,0 +1,10 @@
+{
+  "Lancamentos": [
+    {
+      "descricao": "Imposto",
+      "preco": "-150.0",
+      "ehCredito": "false",
+      "id": "2"
+    }
+  ]
+}
